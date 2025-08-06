@@ -1,0 +1,19 @@
+From: Microsoft Account Team <support@m1crosoft-security.com>
+To: user@example.com
+Subject: Urgent: Unusual Sign-In Activity Detected
+Date: August 5, 2025
+
+Hello user,
+
+We detected a suspicious sign-in attempt on your Microsoft account from an unknown device.
+
+Location: Russia
+IP Address: 178.13.45.22
+Time: August 5, 2025 – 03:15 AM GMT
+
+If this was not you, please secure your account immediately to avoid suspension.
+
+Click here to secure your account: http://security.microsoft-login.com/update
+
+Thank you,  
+Microsoft Account Security Team
