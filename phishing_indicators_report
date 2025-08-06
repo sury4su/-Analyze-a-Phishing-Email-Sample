@@ -1,0 +1,21 @@
+# Phishing Indicators Report
+
+## Email Overview
+- **Subject:** Urgent: Unusual Sign-In Activity Detected
+- **From:** Microsoft Account Team <support@m1crosoft-security.com>
+- **Date:** August 5, 2025
+
+## Indicators Found
+
+| Indicator             | Details                                                                 |
+|-----------------------|-------------------------------------------------------------------------|
+| Spoofed Domain        | Uses `m1crosoft-security.com` instead of official `microsoft.com`       |
+| SPF/DKIM/DMARC Fail   | All authentication methods failed (spoofed sender)                      |
+| Suspicious IP Address | Sent from `178.13.45.22` (Russian hosting server, not Microsoft-owned)  |
+| Fake Link             | URL leads to `http://security.microsoft-login.com`                      |
+| Urgent Language       | "Secure your account immediately to avoid suspension"                   |
+| Generic Greeting      | “Hello user” instead of your name                                       |
+
+## Conclusion
+
+This email contains multiple high-risk phishing indicators. The email is attempting to steal Microsoft credentials through a fake login page. It should be reported and blocked immediately.
