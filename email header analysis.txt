@@ -1,0 +1,13 @@
+Header Analysis Summary:
+
+- SPF: FAIL (Email sent from unauthorized IP)
+- DKIM: NONE
+- DMARC: FAIL
+- Return-Path: suspicious@randommailserver.ru
+- Received: from mail.webhost345.ru [178.13.45.22]
+- Reply-To: support@m1crosoft-security.com
+
+Notes:
+- Mail server not associated with Microsoft.
+- Email authentication failed.
+- Suspicious domain and country of origin.
