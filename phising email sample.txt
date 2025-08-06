@@ -17,3 +17,6 @@ Click here to secure your account: http://security.microsoft-login.com/update
 
 Thank you,  
 Microsoft Account Security Team
+
+[ PS:It is a sample phishing mail I generated using ChatGpt. I will attach one real life sample that can be analyzed using the tools. I will also attach one random phising email image.]
+
