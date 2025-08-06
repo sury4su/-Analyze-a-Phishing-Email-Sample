@@ -13,3 +13,4 @@ This repository contains an analysis of a sample phishing email. It includes a b
 
 To educate users and analysts on common phishing tactics and improve awareness around email threats.
 
+PS; THE SAMPLE-1.EML CAN BE COPY PASTED INTO THE TOOL WILL GIVE US THE REALTIME ANALYSIS RESULT OF A PHISING EMAIL.
